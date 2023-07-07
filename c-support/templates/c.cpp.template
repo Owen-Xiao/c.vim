@@ -7,7 +7,7 @@ $
 cout	<< <CURSOR> << endl;
 $
 == cpp.cout-operator == insert ==
-<< "<CURSOR>" 
+<< "<CURSOR>"
 $
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == cpp.output-manipulator-boolalpha       == insert ==
@@ -33,15 +33,15 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == cpp.output-manipulator-scientific      == insert ==
 << scientific <CURSOR>
 == cpp.output-manipulator-setbase         == insert ==
-<< setbase(10<CURSOR>) 
+<< setbase(10<CURSOR>)
 == cpp.output-manipulator-setfill         == insert ==
-<< setfill(<CURSOR>) 
+<< setfill(<CURSOR>)
 == cpp.output-manipulator-setiosflag      == insert ==
-<< setiosflags(<CURSOR>) 
+<< setiosflags(<CURSOR>)
 == cpp.output-manipulator-setprecision    == insert ==
-<< setprecision(6<CURSOR>) 
+<< setprecision(6<CURSOR>)
 == cpp.output-manipulator-setw            == insert ==
-<< setw(0<CURSOR>) 
+<< setw(0<CURSOR>)
 == cpp.output-manipulator-showbase        == insert ==
 << showbase <CURSOR>
 == cpp.output-manipulator-showpoint       == insert ==
@@ -294,7 +294,7 @@ $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
  *--------------------------------------------------------------------------------------
  *       Class:  |?CLASSNAME:c|
  *      Method:  |CLASSNAME|
- * Description:  
+ * Description:
  *--------------------------------------------------------------------------------------
  */
 template < class T >
@@ -305,7 +305,7 @@ template < class T >
 
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == cpp.template-class-using-new-definition ==
-/* 
+/*
  * =====================================================================================
  *        Class:  |?CLASSNAME:c|
  *  Description:  <CURSOR>
