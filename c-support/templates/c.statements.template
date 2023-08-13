@@ -44,17 +44,19 @@ while (<CURSOR>) {
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == statements.switch ==
 switch (<CURSOR>) {
-case <-LABEL->:
-	<SPLIT>break;
 
 case <-LABEL->:
-	break;
+break;
 
 case <-LABEL->:
-	break;
+break;
+
+case <-LABEL->:
+break;
 
 default:
-	break;
+break;
+
 }				/* -----  end switch  ----- */
 $%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 == statements.case ==
